@@ -1,0 +1,15 @@
+{
+  "name": "living-styleguide-project",
+  "version": "1.0.0",
+  "description": "Sample Living Style Guide Project for Safari Learning Path",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Archana Sankaranarayanan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
