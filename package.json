@@ -4,12 +4,13 @@
   "description": "Sample Living Style Guide Project for Safari Learning Path",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./index.js && gulp --gulpfile ./styleguide/gulpfile.js"
   },
   "author": "Archana Sankaranarayanan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
+    "gulp": "^3.9.1",
     "path": "^0.12.7"
   }
 }
