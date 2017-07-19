@@ -4,7 +4,7 @@
   "description": "Sample Living Style Guide Project for Safari Learning Path",
   "main": "index.js",
   "scripts": {
-    "start": "node ./server.js && gulp --gulpfile ./styleguide/gulpfile.js"
+    "start": "node ./server.js & gulp --gulpfile ./styleguide/gulpfile.js"
   },
   "author": "Archana Sankaranarayanan",
   "license": "ISC",
