@@ -4,7 +4,7 @@ This is the first step of setting up a project for building your living style gu
 ## Installation
 To set up this project, follow these steps:
 * Clone this repo 
-* cd living-styleguide-project
+* ```cd living-styleguide-project```
 * Install all dependencies for the project: ```npm install```
 * Start the server: ```npm start```
 * Visit http://localhost:3000 in your browser
