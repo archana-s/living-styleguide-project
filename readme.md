@@ -1,5 +1,5 @@
 # Initial project set up for O'Reilly Learning Path : Building a living style guide
-This is the first step of setting up a project for building your living style guide.
+This is the STEP 1 of setting up a project for building your living style guide.
 
 ## Installation
 To set up this project, follow these steps:
