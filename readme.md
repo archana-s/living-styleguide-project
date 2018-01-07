@@ -1,8 +1,12 @@
-# Style Guide Project 
-## For O'reilly Safari Learning Path
+# Initial project set up for O'Reilly Learning Path : Building a living style guide
+This is the first step of setting up a project for building your living style guide.
 
-Please clone this repo and follow through the instructions in the course.
+## Installation
+To set up this project, follow these steps:
+* Clone this repo 
+* cd living-styleguide-project
+* Install all dependencies for the project: ```npm install```
+* Start the server: ```npm start```
+* Visit http://localhost:3000 in your browser
+* Look at the folder "styleguide" in this directory
 
-```git clone https://github.com/archana-s/living-styleguide-project.git```
-
-You can access the course [here](tbd)
