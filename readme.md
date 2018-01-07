@@ -10,3 +10,4 @@ To set up this project, follow these steps:
 * Visit http://localhost:3000 in your browser
 * Look at the folder "styleguide" in this directory
 
+You can access the O'Reilly course [here]()
