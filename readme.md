@@ -1,4 +1,4 @@
-# Project files for O'Reilly Learning Path: Building a living style guide (Step 1)
+# Initial project set up for O'Reilly Learning Path: Building a living style guide
 This is the STEP 1 of setting up a project for building your living style guide. You can access the course [here]()
 
 ## Description
